@@ -9,4 +9,8 @@ public class Plugin implements IPlugin {
     public ShapeCreator getCreator() {
         return new SquareCreator();
     }
+
+    public Codable getCoder() {
+        return new CryptCoder();
+    }
 }

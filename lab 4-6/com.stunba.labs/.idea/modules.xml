@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.graphics.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.graphics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.graphics_main.iml" group="com.stunba.labs.graphics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.graphics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.graphics_test.iml" group="com.stunba.labs.graphics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.plugin.iml" group="com.stunba.labs.plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.plugin/com.stunba.labs.plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.plugin/com.stunba.labs.plugin_main.iml" group="com.stunba.labs.plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs.plugin/com.stunba.labs.plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs.plugin/com.stunba.labs.plugin_test.iml" group="com.stunba.labs.plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs_main.iml" group="com.stunba.labs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.stunba.labs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.stunba.labs_test.iml" group="com.stunba.labs" />
+    </modules>
+  </component>
+</project>

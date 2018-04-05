@@ -1,0 +1,4 @@
+rootProject.name = 'com.stunba.labs'
+rootProject.name = 'com.stunba.labs'
+include 'com.stunba.labs.plugin'
+
